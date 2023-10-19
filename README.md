@@ -1,5 +1,5 @@
 * How to compile and run:
-1. Clone source code
+1. Clone source code from https://github.com/tilomvn/uwave-bus-station.git
 2. Move to directory uwave-bus-station and run command
 `mvnw spring-boot:run`. Note that program need internet connection to download maven libs. And need to install jdk, jre version 11 on your local machine before run command
 3. The program will run at port 4040
